@@ -13,6 +13,14 @@ public class Sample2747 {
 		System.out.println(b-a);
 	}
 	
+	public void mul() {
+		System.out.println(a*b);
+	}
+	
+	public void Div() {
+		System.out.println(b/a);
+	}
+	
 	
 	public static void main(String[] args) {
 		
